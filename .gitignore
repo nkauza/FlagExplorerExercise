@@ -1,0 +1,19 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/FlagExplorerAPI/bin/Debug/net8.0
+/FlagExplorerAPI/obj
+/FlagExplorerAPI.Domain/bin/Debug/net8.0
+/FlagExplorerAPI.Domain/obj
+/FlagExplorerAPI.Helpers/bin/Debug/net8.0
+/FlagExplorerAPI.Helpers/obj
+/FlagExplorerAPI.Repository/bin/Debug/net8.0
+/FlagExplorerAPI.Repository/obj/Debug/net8.0
+/FlagExplorerAPI.Repository/obj
+/FlagExplorerAPI.Services/bin/Debug/net8.0
+/FlagExplorerAPI.Services/obj
+/FlagExplorerAPI.TestProject/bin/Debug/net8.0
+/FlagExplorerAPI.TestProject/obj/Debug/net8.0
+/FlagExplorerAPI.TestProject/obj
