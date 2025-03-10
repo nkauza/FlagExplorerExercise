@@ -3,6 +3,7 @@ using FlagExplorerAPI.Repository;
 using FlagExplorerAPI.Services;
 using Microsoft.Extensions.Logging;
 using Moq;
+using Xunit;
 
 namespace FlagExplorerAPI.TestProject
 {
