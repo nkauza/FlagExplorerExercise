@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35825.156 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FlagExplorerAPI", "FlagExplorerAPI\FlagExplorerAPI.csproj", "{1FCFD69F-4D14-4A38-B55E-240D6AFA83F3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FlagExplorerAPI.Domain", "FlagExplorerAPI.Domain\FlagExplorerAPI.Domain.csproj", "{F4077E47-51B1-46B5-AD3D-A002D827A77B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FlagExplorerAPI.Repository", "FlagExplorerAPI.Repository\FlagExplorerAPI.Repository.csproj", "{5F85F320-CADB-43C4-AE73-1ADDF1A2B121}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FlagExplorerAPI.Services", "FlagExplorerAPI.Services\FlagExplorerAPI.Services.csproj", "{A23D8AD5-B1FC-498E-BC90-96C3D8E0ADBA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FlagExplorerAPI.Helpers", "FlagExplorerAPI.Helpers\FlagExplorerAPI.Helpers.csproj", "{C4E4DFD8-48D6-4832-A813-E3FEB4787F44}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FlagExplorerAPI.TestProject", "FlagExplorerAPI.TestProject\FlagExplorerAPI.TestProject.csproj", "{81E69EDD-B407-4C1C-A13F-2E6B889E9102}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1FCFD69F-4D14-4A38-B55E-240D6AFA83F3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1FCFD69F-4D14-4A38-B55E-240D6AFA83F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1FCFD69F-4D14-4A38-B55E-240D6AFA83F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1FCFD69F-4D14-4A38-B55E-240D6AFA83F3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F4077E47-51B1-46B5-AD3D-A002D827A77B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F4077E47-51B1-46B5-AD3D-A002D827A77B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F4077E47-51B1-46B5-AD3D-A002D827A77B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F4077E47-51B1-46B5-AD3D-A002D827A77B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5F85F320-CADB-43C4-AE73-1ADDF1A2B121}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5F85F320-CADB-43C4-AE73-1ADDF1A2B121}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5F85F320-CADB-43C4-AE73-1ADDF1A2B121}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5F85F320-CADB-43C4-AE73-1ADDF1A2B121}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A23D8AD5-B1FC-498E-BC90-96C3D8E0ADBA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A23D8AD5-B1FC-498E-BC90-96C3D8E0ADBA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A23D8AD5-B1FC-498E-BC90-96C3D8E0ADBA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A23D8AD5-B1FC-498E-BC90-96C3D8E0ADBA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C4E4DFD8-48D6-4832-A813-E3FEB4787F44}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C4E4DFD8-48D6-4832-A813-E3FEB4787F44}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C4E4DFD8-48D6-4832-A813-E3FEB4787F44}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C4E4DFD8-48D6-4832-A813-E3FEB4787F44}.Release|Any CPU.Build.0 = Release|Any CPU
+		{81E69EDD-B407-4C1C-A13F-2E6B889E9102}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{81E69EDD-B407-4C1C-A13F-2E6B889E9102}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{81E69EDD-B407-4C1C-A13F-2E6B889E9102}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{81E69EDD-B407-4C1C-A13F-2E6B889E9102}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F004D131-56F6-44A2-8202-5A8607697875}
+	EndGlobalSection
+EndGlobal
